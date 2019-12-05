@@ -25,7 +25,7 @@ $ ./dec.sh
 
 ===============================================================================
 
-Contact Me:
+# Contact Me:
 WhatsApp : https://api.whatsapp.com/send?phone=62859181977385
 
 Facebook : Abbot Tak Terimo
