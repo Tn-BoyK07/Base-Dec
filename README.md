@@ -15,7 +15,7 @@ $ apt install ruby -y
 
 $ gem install lolcat
 
-$ git clone https://github.com/tn-boyk07/Base-Dec
+$ git clone https://github.com/Tn-BoyK07/Base-Dec
 
 $ cd Base-Dec
 
