@@ -1,4 +1,4 @@
-# Base Decryptor by Tn.BoyK07
+# Base Decryptor
 ===============================================================================
 
 $ apt update && apt upgrade -y
